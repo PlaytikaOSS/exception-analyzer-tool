@@ -6,7 +6,7 @@
 
   <groupId>com.playtika.services</groupId>
   <artifactId>exception-analyzer-tool </artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>3.0</version>
 
   <name>exception-analyzer-tool</name>
   <description>Exception-analyzer-tool</description>
