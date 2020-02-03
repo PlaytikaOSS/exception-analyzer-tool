@@ -1,3 +1,3 @@
-[![CircleCI](https://circleci.com/gh/Playtika/exception-analyzer-tool/tree/develop.svg?style=shield&circle-token=dc125176af2f7746808d5335de63f214f6dab7ae)](https://circleci.com/gh/Playtika/exception-analyzer-tool/tree/develop)
+[![CircleCI](https://circleci.com/gh/Playtika/exception-analyzer-tool.svg?style=svg&circle-token=1c386ae82a2e58262f4ef68bc1bbd0c418669f1f)](https://circleci.com/gh/Playtika/exception-analyzer-tool)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.playtika.services/exception-analyzer-tool/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.playtika.services/exception-analyzer-too)
 # exception-analyzer-tool
